@@ -73,6 +73,9 @@ in Python, the indices(positon#s) in a list start with 0, so the first position 
 similarly the last element in a list has an index number of len(list)-1
     E.g) list1 = [1,2,3,4]
         in list1, 1 is in 0th index, 2 in 1st index, 3 in 2nd index, 4 in the 3rd index (But length of the list is 4 because there are 4 elements)
+        so, the index of last position in a list is always len(list) - 1.
 """
+
+
 
 
