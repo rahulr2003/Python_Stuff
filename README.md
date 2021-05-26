@@ -1,3 +1,3 @@
-# Python-with-Sam
+# Python Stuff
 
 python excercises+files to learn Python basics
