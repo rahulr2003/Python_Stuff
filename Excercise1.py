@@ -74,9 +74,7 @@ def to_24_hour_clock(hours):
     4
     >>> to_24_hour_clock(28.5)
     4.5
-    """s
-
-    return hours % 24
+    """
 
 
 
