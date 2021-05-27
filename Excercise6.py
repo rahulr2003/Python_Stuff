@@ -1,5 +1,5 @@
 """
-program a function that takes a n digit number as input and reverses it and outputs the same.
+program a function that takes a n digit number as input, reverses it and outputs the same.
 
 test cases
 >>> reverse(4323)
